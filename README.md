@@ -1,0 +1,1 @@
+# A sample library to demonstrate how to create NPM library
